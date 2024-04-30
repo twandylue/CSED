@@ -1,7 +1,6 @@
 # Final Report
 
 - Name: An Lu (Andy Lu)
-- Student ID: 10924194
 - What programming language is being used: Python
 
 ## How to start
@@ -54,7 +53,7 @@ Subcommands and options:
 
 ### Train the model
 
-Example: 
+Example:
 
 ```console
 $ python3 main.py -t ./data/spam.csv
@@ -67,7 +66,7 @@ Model saved
 
 ### Predict the spam email by the model
 
-Example: 
+Example:
 
 ```console
 $ python3 main.py -p ./data/email.txt
